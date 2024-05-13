@@ -1,0 +1,50 @@
+<header>
+   <img src="" alt="">
+<img src="./img/alurastart logo 1.png" alt="logo da alura start">
+<img class="cabecalho-imagem" src="./img/alurastart logo 1.png"
+.cabecalho-imagem{
+}
+cabecalho-imagem{
+
+    width: 20%;
+    
+}
+<header class="cabecalho">
+<img class="cabecalho-imagem" src="./img/alurastart logo 1.png" alt="logo da alura 
+start">
+  <ul class="cabecalho-lista-item">
+   <li>Estudante</li>
+   <li>Escola</li>
+ </ul>
+.cabecalho {
+background-color: #383d58;
+color: white;
+}
+color: white;
+display:flex;
+}
+display:flex;
+justify-content: space-around;
+}
+<li class="cabecalho-lista-item">Estudante</li>
+<li class="cabecalho-lista-item">Escola</li>
+.cabecalho-lista-item{
+   display: inline-block;
+}
+. cabecalho-lista-item{
+     display: inline-block
+   margin: 0 16px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+  margin: 0 16px;
+  padding: 24px 0;
+}
+justify-content: space-around;
+padding: 24px 0;
+}
+  padding: 24px 0;
+  font-size: 24px;
+  }
